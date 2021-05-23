@@ -1,0 +1,151 @@
+1+2
+println "Hello World"
+1+2
+class foo
+def hello(name){
+println("hello $name")}
+def hello(name){
+println("hello $name")
+class foo
+def hello(name){
+println  ("hello $name")
+def hello(name){
+println("Hello $name")
+foo = "bar"
+}
+clear
+println("Hello")
+println("hello")
+def foo = "bar"
+def hello(name){
+println("Hello $name")}
+def c=a+b
+c = a + b
+c = 'a' + 'b'
+def int a
+def int a,int b
+def int a,def int b
+def int a,b
+def int a,b,c
+c=a+b
+c = 'a' + 'b'
+def int a,b,c {
+c = 'a' + 'b'
+def int a,b,c {
+c = 'a' + 'b'}
+def int a,b,c {
+c = 'a' + 'b'
+def int a,b,c;
+def int a,b,c
+clear
+exit
+class Add{
+def Sum(){
+int a,b,c
+c='a'+'b'
+}
+sum()}
+sum();}
+Sum}
+Sum()}
+Sum();}
+Sum(c)}
+Sum(c);
+-clear
+class Add{
+def Sum(){
+int a,b,c
+c='a'+'b'
+println("addition of two numbers" + c)
+}
+Add.Sum()}
+Add.Sum(c)}
+}
+println(Add.Sum(c))}
+println Add.Sum(c) }
+class Add{
+static void main(String[] args){
+int x=1,y=3,z=0;
+z=x+y;
+print(z);
+}
+print(z);
+class Add{
+def Sum(int a,int b){
+int c=a+b;
+println(c);
+}}
+dem=New Demo();
+exit
+class Sum{
+def Add(int a,int b){
+int c=a+b;
+println(c);
+}
+sum1=new Sum();
+dem.Add(1,2);
+sum1.Add(1,2);
+Class Ad{
+def Summ(){
+int a,b,c;
+int a,b,c
+sum1.Add(1,2);
+exit
+cd ..
+sum1.Add(1,2);
+cd ..
+sum1.Add(1,2);
+groovy:000> class Sum{
+groovy:001> def Add(int a,int b){
+groovy:002> int c=a+b;
+groovy:003> println(c);
+groovy:004> }
+groovy:005> }
+clear
+-clear
+class Add{
+def Sum(){
+int a,b,c
+int a,b,c;
+c=a+b;
+}
+sum1=new Add();
+class Add{
+def Sum(){
+int a,b,c
+c=a+b;
+println(c);
+}}
+class Add{
+def Sum(){
+int a,b,c;
+c=a+b;
+println(c);
+}}
+sum1=new Add();
+Add sum1=new Add();
+sum1.Sum(1,2);
+Add.Sum(1,2);
+exit
+class Add{
+def Sum(int a,int b){
+intc=a+b;
+int c=a+b;
+println(c);
+}
+Add1 =new Add();
+Add1(6,4);
+Add1.Sum(6,4);
+Add1 =new Add();
+Add1.Sum(6,4)
+Add1.Sum(1,2)
+class Add{
+def Sum(int a,int b){
+int c=a+b;
+println(c);
+}}
+Add1 =new Add();
+Add.Add1(1,2)
+kpp  =new Add();
+kpp.Sum(1,2)
+kpp.Sum(6,4)
